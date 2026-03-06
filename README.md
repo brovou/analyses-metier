@@ -37,9 +37,9 @@ Produire des diagnostics clairs et des recommandations actionnables, basées sur
 - Décisions actionnables à partir d’indicateurs fiables
 
 ## Livrables
-- Présentations / rapports : `/docs`
+- Autre : `/docs`
 - Scripts / notebooks : `/src`
-- Captures / visuels : `/assets`
+- Présentations / rapports  : `/assets`
 
 ## Compétences mobilisées
 Analyse KPI, data prep, dataviz, segmentation, recommandations, storytelling.
@@ -81,9 +81,9 @@ Deliver clear diagnostics and actionable recommendations based on KPIs and struc
 - Actionable decisions from reliable indicators
 
 ## Deliverables
-- Presentations / reports: `/docs`
+- Other: `/docs`
 - Scripts / notebooks: `/src`
-- Screenshots / visuals: `/assets`
+- Presentations / reports: `/assets`
 
 ## Skills
 KPI analysis, data preparation, data visualization, segmentation, recommendations, storytelling.
